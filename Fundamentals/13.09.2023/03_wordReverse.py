@@ -6,4 +6,3 @@ word = str(input())
 # print(reversed_word)
 
 print(word[::-1])
- 
